@@ -40,7 +40,7 @@ metadata:
     - calinv
 spec:
   type: service
-  owner: MyTeam
+  owner: teama
   lifecycle: experimental
   consumesApis:
     - spotify
